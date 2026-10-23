@@ -1,3 +1,7 @@
 This is my first file!
 I am editing said file in the github browser editor! yowzas!
 (also, I know you probably meant for me to put my first and last names as the filename instead of fistName_lastName, but this is funnier to me so I'm doing it this way)
+
+This bit of text is being added from the git bash "vi" editor! Ain't that neat-o!
+Actually, I'm going to look up what the vi stands for.
+oh, it's literally just called the "vi text editor". huh.
